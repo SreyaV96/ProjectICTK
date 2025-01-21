@@ -4,7 +4,7 @@ Stroke is a critical health concern worldwide, often leading to severe outcomes 
 ## Features
 - EDA on stroke data
 - Web deployment using Streamlit and Flask
-- Chatbot
+- Chatbot using Groq
 
 
 
